@@ -1,4 +1,4 @@
-# ComplexCalculator
+# Complex Calculator
 i made a cute little calculator that computes complex numbers typed from the keyboard 
 the inpus has to be something like :
 
