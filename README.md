@@ -6,7 +6,7 @@ c1 OP c1 OP c2 OP c4
 
 where c1,c2,c3,c4 are complex numbers 
 
-and OP is one of the 4 operations : + - * / 
+and OP is one(and only one) of the 4 operations : + - * / and 
 
 there can be as many numbers and operations as you wish
 also the complex number can look like : 
