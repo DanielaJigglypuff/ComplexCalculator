@@ -15,8 +15,8 @@ c1=a+-ib     |
 c2=a-i    |
 c3=+-i    |
 c4=a    |
-c5=a+-i`*`b    |
-c6=b`*`i   etc.
+c5=a+-i* b    |
+c6=b* i   etc.
 
 where a, b are real numbers(aka double in java terms)
 
